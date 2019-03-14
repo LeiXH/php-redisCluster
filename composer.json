@@ -1,0 +1,8 @@
+{
+  "name": "raysophia/phpredis-cluster",
+  "autoload": {
+    "psr-4": {
+      "redis\\": "src/"
+    }
+  }
+}
