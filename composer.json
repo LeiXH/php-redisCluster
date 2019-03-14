@@ -4,11 +4,5 @@
     "psr-4": {
       "redis\\": "src/"
     }
-  },
-  "repositories": {
-    "packagist": {
-      "type": "composer",
-      "url": "https://packagist.phpcomposer.com"
-    }
   }
 }
